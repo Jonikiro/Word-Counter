@@ -1,0 +1,7 @@
+D:\C#\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+D:\C#\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+D:\C#\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+D:\C#\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+D:\C#\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+D:\C#\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+D:\C#\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
